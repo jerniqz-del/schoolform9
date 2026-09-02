@@ -1,0 +1,8 @@
+{
+  "name": "School Form 9 Maker",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "install": "cd tools && npm ci"
+}
