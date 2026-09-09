@@ -1,0 +1,29 @@
+{
+  "region": "REGION IV-A (CALABARZON)",
+  "division": "LAGUNA",
+  "district": "STA. CRUZ NORTH",
+  "municipality": "Sta. Cruz",
+  "school": "Sta. Cruz Central Elementary School",
+  "schoolYear": "2025-2026",
+  "adviser": "Ms. Maria L. Santos",
+  "schoolHead": "Dr. Jose P. Rizal",
+  "schoolHeadDesignation": "Principal IV",
+  "students": [
+    {
+      "Name": "Juan D. Dela Cruz",
+      "Age": "7",
+      "Sex": "Male",
+      "gradeLevel": "Grade 1",
+      "section": "Sampaguita",
+      "LRN": "136728150001"
+    },
+    {
+      "Name": "Andrea M. Reyes",
+      "Age": "7",
+      "Sex": "Female",
+      "gradeLevel": "Grade 1",
+      "section": "Sampaguita",
+      "LRN": "136728150002"
+    }
+  ]
+}
