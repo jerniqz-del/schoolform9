@@ -1,0 +1,18 @@
+{
+  "name": "schoolform9-maker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CLI tooling to fill School Form 9 (Learner's Progress Report) docx templates with learner data.",
+  "license": "MIT",
+  "bin": {
+    "sf9-generate": "generate.js"
+  },
+  "scripts": {
+    "demo": "node generate.js --template \"../Grade One.docx\" --data sample-data.json --out out/Grade-One-filled.docx --pdf"
+  },
+  "dependencies": {
+    "@slosarek/docxtemplater-image-module-free": "^1.2.0",
+    "docxtemplater": "^3.69.3",
+    "pizzip": "^3.2.0"
+  }
+}
